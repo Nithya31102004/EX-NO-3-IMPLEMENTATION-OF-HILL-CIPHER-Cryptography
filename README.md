@@ -1,4 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
+##NAME :NITHYA T
+##REG NO:2305001023
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
