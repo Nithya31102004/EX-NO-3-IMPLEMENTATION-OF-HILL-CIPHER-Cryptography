@@ -1,7 +1,6 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
-##NAME :NITHYA T
-##REG NO:2305001023
- 
+## NAME: NITHYA T
+## REG NO: 2305001023
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
 
@@ -98,6 +97,8 @@ int main() {
 
 ```
 ## OUTPUT
+<img width="425" height="245" alt="image" src="https://github.com/user-attachments/assets/f6a943ce-6a47-4154-a61f-c67749d44d4a" />
+
 
 ## RESULT
 hence the experiment has been executed successfully
